@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<staff>
+    <age>38</age>
+    <name>mkyong</name>
+    <position>Founder</position>
+    <position>CTO</position>
+    <position>Writer</position>
+    <salary>
+        <entry>
+            <key>2018</key>
+            <value>140000</value>
+        </entry>
+        <entry>
+            <key>2012</key>
+            <value>120000</value>
+        </entry>
+        <entry>
+            <key>2010</key>
+            <value>100000</value>
+        </entry>
+    </salary>
+    <skills>java</skills>
+    <skills>python</skills>
+    <skills>node</skills>
+    <skills>kotlin</skills>
+</staff>
